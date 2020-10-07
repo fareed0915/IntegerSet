@@ -4,7 +4,7 @@ import java.util.*;
 
 public class IntegerSet  {
 // Hint: probably best to use an array list.  You will need to do a little research
-private List<Integer> set = new  <Integer>();
+private List<Integer> set = new ArrayList <Integer>();
 
 public IntegerSet(List<Integer> set) {
       this.set = set;
